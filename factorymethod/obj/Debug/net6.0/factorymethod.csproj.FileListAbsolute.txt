@@ -1,0 +1,15 @@
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/bin/Debug/net6.0/factorymethod
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/bin/Debug/net6.0/factorymethod.deps.json
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/bin/Debug/net6.0/factorymethod.runtimeconfig.json
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/bin/Debug/net6.0/factorymethod.dll
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/bin/Debug/net6.0/factorymethod.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.csproj.AssemblyReference.cache
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.AssemblyInfoInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.AssemblyInfo.cs
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.csproj.CoreCompileInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.dll
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/refint/factorymethod.dll
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/factorymethod.genruntimeconfig.cache
+/Users/isacastillo/Documents/arquitectura/patrones/factorymethod/obj/Debug/net6.0/ref/factorymethod.dll
