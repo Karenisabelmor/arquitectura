@@ -1,0 +1,15 @@
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/bin/Debug/net6.0/abstractfactory
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/bin/Debug/net6.0/abstractfactory.deps.json
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/bin/Debug/net6.0/abstractfactory.runtimeconfig.json
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/bin/Debug/net6.0/abstractfactory.dll
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/bin/Debug/net6.0/abstractfactory.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.csproj.AssemblyReference.cache
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.AssemblyInfoInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.AssemblyInfo.cs
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.csproj.CoreCompileInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.dll
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/refint/abstractfactory.dll
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/abstractfactory.genruntimeconfig.cache
+/Users/isacastillo/Documents/arquitectura/patrones/abstractfactory/obj/Debug/net6.0/ref/abstractfactory.dll
