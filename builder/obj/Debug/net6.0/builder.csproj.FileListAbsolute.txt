@@ -1,0 +1,15 @@
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.csproj.AssemblyReference.cache
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.AssemblyInfoInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.AssemblyInfo.cs
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.csproj.CoreCompileInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/builder/bin/Debug/net6.0/builder
+/Users/isacastillo/Documents/arquitectura/patrones/builder/bin/Debug/net6.0/builder.deps.json
+/Users/isacastillo/Documents/arquitectura/patrones/builder/bin/Debug/net6.0/builder.runtimeconfig.json
+/Users/isacastillo/Documents/arquitectura/patrones/builder/bin/Debug/net6.0/builder.dll
+/Users/isacastillo/Documents/arquitectura/patrones/builder/bin/Debug/net6.0/builder.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.dll
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/refint/builder.dll
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/builder.genruntimeconfig.cache
+/Users/isacastillo/Documents/arquitectura/patrones/builder/obj/Debug/net6.0/ref/builder.dll
