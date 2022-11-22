@@ -1,0 +1,17 @@
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.csproj.AssemblyReference.cache
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.AssemblyInfoInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.AssemblyInfo.cs
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.csproj.CoreCompileInputs.cache
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/adapter
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/adapter.deps.json
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/adapter.runtimeconfig.json
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/adapter.dll
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/adapter.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.csproj.CopyComplete
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.dll
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/refint/adapter.dll
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.pdb
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/adapter.genruntimeconfig.cache
+/Users/isacastillo/Documents/arquitectura/patrones/adapter/obj/Debug/net6.0/ref/adapter.dll
