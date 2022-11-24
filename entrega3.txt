@@ -1,0 +1,16 @@
+Patrones de Diseño
+Karen Morgado - A01027446
+
+1. Singleton - asegura que una clase tenga una única instancia y proporciona un punto de acceso global a distancia.
+2. Factory Method - define una interfaz para crear un objeto, pero permite a las subclases decidir qué clase instanciar.
+3. Abstract Factory -  permite producir familias de objetos sin especificar clases concretas.
+4. Builder -  permite construir objetos complejos, producir distintos tipos y representaciones de un objeto pero empleando el mismo código.
+5. Prototype - especifica la clase que se va a crear usando un prototipo y así se va a poder crear nuevos objetos con ese prototipo.
+6. Adapter - el patrón actpua como envoltorio entre dos objetos, esto hace que atrape llamadas a un objeto, las transforma a un formato y una
+ interfaz que la pueda reconocer el segundo objeto.
+7. Composite - tiene la habilidad de correr métodos de forma recursiva a través de toda la estructura del árbol y suma los resultados.
+8. Decorator - puede envolver objetos muchas veces ya que los objetos destino al igual que los decoradores siguen la misma interfaz. El objeto 
+ resultado tendrá un comportamiento de stacking de todos los envoltorios.
+
+En la clase aprendí un poco más acerca de dotnet y como se aplican los patrones de diseño, los cuales nos sirven para proporcionar elementos que
+ que podemos reusar y así evitar la reiteración en la búsqueda de soluciones a problemas antes solucionados.
